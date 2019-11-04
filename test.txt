@@ -1,7 +1,5 @@
 Hello
 무언가를 수정하였음.
 재수정.
-ㄴㅁㅇㅁㅇㅁㄴ
-updateupdate
-abcdefg
-dassadasdasddasasdasd
+이전 내용을 삭제하고 새로운 넣은 라인
+팀장이 수정한 내용 + 클론한 사람이 수정한 파일
